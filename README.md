@@ -1,4 +1,4 @@
-The Command Line Murder
+A Command Line Murder Mystery game to practice bash
 ========================
 
     .OOOOOOOOOOOOOOO @@                                   @@ OOOOOOOOOOOOOOOO.
@@ -25,45 +25,16 @@ The Command Line Murder
     `OOOO'       `@    aa@@       aaa"""          @a        a@     a@@@',OOOO'
 
 
-There's been a murder in Terminal City, and TCPD needs your help.
+# A brilliant game built by [Noah Veltman](https://github.com/veltman) to practice and learn bash commands
 
-Before you start, skim through the required materials in the Command Line and Version Control sections of your PreCourse repo. Use it as a reference while working through the case.
+## Key takeaways
 
-Now with your Terminal at hand you're ready to start. A couple of ground rules first:
+- The power of the command line! You can do so many things to do wityh file manipulation and all sorts in one line of commands, that would otherwise require dedicated software.
 
-- **Don't use a text editor**. You will find that the command line is an incredibly powerful tool on its own.
-- You can use Google, PreCourse materials, cheatsheets or any other materials available.
+- It isn't always faster to use command line for simple things! GUI's can sometimes be faster than googling for the terminal command :)
 
-# To the investigation!
+- Memorising commands isn't particularly worthwhile. If you memorise it because you use it so much, that's great. Otherwise, use a GUI or google it. 
 
-## Step 1: Get the repo
+- Using the command line to do things often isn't actually faster than using a GUI - that is, if the GUI actually lets you do what you want to do.
 
-First you need to fork this [repository](https://help.github.com/articles/github-glossary/#repository). To do that click on the "Fork" button in the upper right corner of this page. Forking a 'repo' creates a copy of the repository on your Github account. This gives you your own version of the project to experiment with.
 
-![Fork](./img/fork_button.jpg)
-
-Next you need to download those files to your machine so that you can edit them. To do that you must clone your forked repository. See [this Github guide](https://help.github.com/articles/cloning-a-repository/) on how to do this.
-
-## Step 2: Investigate
-
-Each step of your investigation will contain a reference to the **Detective Handbook** at the top. Each page of the Detective Handbook contains the description of the commands you will need to complete that particular step. You can view them in the Terminal:
-
-```bash
-Reference: ./detective_handbook/getting_started.md
-```
-Open a Terminal, go to the location of the files (using the `cd` command), and start by reading the file 'step0'.
-
-One way you can do this is with following command:
-
-    cat step0
-
-(`cat` is a command that will print the contents of the file called `step0` for you to read.)
-
-### Credits
-
-By Noah Veltman
-Projects: [noahveltman.com](http://noahveltman.com)
-GitHub: [veltman](https://github.com/veltman)
-Twitter: [@veltman](https://twitter.com/veltman)
-
-Adapted by the Makers Academy Team
