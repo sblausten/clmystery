@@ -29,12 +29,10 @@ A Command Line Murder Mystery game to practice bash
 
 ## Key takeaways
 
-- The power of the command line! You can do so many things to do wityh file manipulation and all sorts in one line of commands, that would otherwise require dedicated software.
+- The power of the command line! You can do so many things to do with file manipulation and all sorts in one line of typing, that would otherwise require dedicated software.
 
 - It isn't always faster to use command line for simple things! GUI's can sometimes be faster than googling for the terminal command :)
 
 - Memorising commands isn't particularly worthwhile. If you memorise it because you use it so much, that's great. Otherwise, use a GUI or google it. 
-
-- Using the command line to do things often isn't actually faster than using a GUI - that is, if the GUI actually lets you do what you want to do.
 
 
